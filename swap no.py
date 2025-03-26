@@ -1,0 +1,11 @@
+a=int(input("enter a value for a: "))
+b=int(input("enter a value for b: "))
+c=int(input("enter a value for c: "))
+print("value of a is: ", a)
+print("value of b is: ", b)
+print("value of c is: ", c)
+#a, b, c=c, a, b
+print("after swapping: ")
+print("value of a is: ", c)
+print("value of b is: ", a)
+print("value of c is: ", b)
